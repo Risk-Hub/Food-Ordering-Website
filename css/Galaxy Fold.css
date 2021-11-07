@@ -1,0 +1,88 @@
+#navbar {
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  width: 100%;
+}
+#navbar ul li {
+  font-size: 1.6rem;
+}
+.h-primary {
+  font-size: 2.9rem;
+}
+#home {
+  width: 163%;
+}
+#home::before {
+  width: 764px;
+}
+#home .h-primary {
+  margin-top: 50%;
+  margin-left: 11%;
+  font-size: xxx-large;
+  width: max-content;
+}
+#home p {
+  width: 152%;
+  margin-left: 46px;
+  font-size: 1.7rem;
+}
+#services-container {
+  margin-top: 153px;
+  width: 710px;
+}
+#services-container .h-primary {
+  font-size: 2.9rem;
+}
+#services {
+  flex-direction: column;
+}
+#services .box {
+  margin: 13px;
+}
+#services .box img {
+  height: 150px;
+}
+.h-secondary {
+  font-size: 2rem;
+}
+.box p {
+  font-size: 27px;
+}
+#clients-section {
+  margin-top: -48px;
+  width: 707px;
+}
+#clients {
+  flex-wrap: wrap-reverse;
+}
+#clients-section::before {
+  width: 710px;
+  height: 50%;
+}
+.client-items {
+  padding: 18px;
+}
+#contact{
+    margin-top: -33px;
+}
+#contact::before {
+  width: 710px;
+  height: 653px;
+}
+#contact-box {
+  width: 253%;
+}
+#contact .h-primary {
+  margin-left: 81%;
+  width: max-content;
+}
+.form-group {
+  font-size: 2rem;
+}
+.btnn{
+    font-size: 18px;
+}
+#footer{
+    width: 710px;
+}

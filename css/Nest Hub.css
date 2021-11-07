@@ -1,0 +1,29 @@
+#navbar {
+  width: 1242px;
+}
+#home {
+  width: 1024px;
+}
+#home::before {
+  width: 127%;
+}
+#services-container {
+  width: 1263px;
+  margin-top: 107px;
+}
+#clients-section {
+  width: 1263px;
+}
+#clients-section::before {
+  width: 1263px;
+}
+#contact {
+  width: 1263px;
+}
+#contact::before {
+  width: 1263px;
+}
+#footer {
+  width: 1263px;
+  height: 28px;
+}
